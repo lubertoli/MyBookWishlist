@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bertolid-MyBookWishlist</string>
+    <string name="title_text">Title</string>
+    <string name="author_text">Author</string>
+    <string name="genre_text">Genre</string>
+    <string name="publication_year">Publication Year</string>
+    <string name="status_text">Status</string>
+    <string name="app_text">" MyBookWishlist"</string>
+    <string name="confirm_text">CONFIRM</string>
+    <string name="read">Mark as Read</string>
+    <string name="delete_text">DELETE</string>
+</resources>
