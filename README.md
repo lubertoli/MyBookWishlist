@@ -40,5 +40,5 @@ MyBookWishlist is an Android app designed to help users manage a wishlist of boo
 - Persist data across app sessions using a database or local storage.
 - Add search or filter functionality for a better user experience.
 
-# #License
+# License
 - This project is licensed under the MIT License.
